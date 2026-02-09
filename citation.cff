@@ -1,0 +1,16 @@
+abstract: '<p><strong>Full Changelog</strong>: https://github.com/Swedish-Rock-Art-Research-Archives/adoranten/commits/v1.0.0</p>'
+authors:
+- affiliation: University of Gothenburg
+  family-names: Green
+  given-names: Ashely
+cff-version: 1.2.0
+date-released: '2026-02-09'
+doi: 10.5281/zenodo.18548992
+license:
+- cc-by-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/Swedish-Rock-Art-Research-Archives/adoranten/tree/v1.0.0
+title: 'Swedish-Rock-Art-Research-Archives/adoranten: adoranten v1.0.0'
+type: software
+version: v1.0.0
+
